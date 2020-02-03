@@ -1,4 +1,5 @@
 first line of brave.txt
 second line added to brave.txt for pull request
 this is a pull request
-forth line to learn pull request
+forth line changed to learn how to fix conflict when you want to make a pull request
+
