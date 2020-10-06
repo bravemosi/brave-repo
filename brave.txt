@@ -3,3 +3,4 @@ second line added to brave.txt for pull request
 this is a pull request
 forth line changed to learn how to fix ' inside third branch 'conflict when you want to 'why dude why!?'make a pull request
 I love vscode so much 
+line 6 added to pull it from vscode .
